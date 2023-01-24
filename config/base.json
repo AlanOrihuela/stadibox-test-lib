@@ -1,0 +1,41 @@
+{
+  "development": {
+    "defaultNum": 20,
+    "rootDomain": "sandbox.stadibox.com",
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "timezone": "UTC",
+    "defaultTheme": "light",
+    "defaultCurrency": "USD",
+    "allowMultipleSessions": false,
+    "currencyThreshold": 0.02
+  },
+  "test": {
+    "defaultNum": 20,
+    "rootDomain": "sandbox.stadibox.com",
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "timezone": "UTC",
+    "defaultTheme": "light",
+    "defaultCurrency": "USD",
+    "allowMultipleSessions": false,
+    "currencyThreshold": 0.02
+  },
+  "production": {
+    "defaultNum": 20,
+    "rootDomain": "sandbox.stadibox.com",
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "timezone": "UTC",
+    "defaultTheme": "light",
+    "defaultCurrency": "USD",
+    "allowMultipleSessions": false,
+    "currencyThreshold": 0.02
+  }
+}

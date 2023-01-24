@@ -1,0 +1,29 @@
+{
+  "development": {
+    "user": "",
+    "password": "",
+    "host": "127.0.0.1",
+    "port": 6379,
+    "db": 13,
+    "url": "redis://127.0.0.1:6379/13",
+    "maxRetriesPerRequest": 1
+  },
+  "test": {
+    "user": "",
+    "password": "",
+    "host": "127.0.0.1",
+    "port": 6379,
+    "db": 13,
+    "url": "redis://127.0.0.1:6379/13",
+    "maxRetriesPerRequest": 1
+  },
+  "production": {
+    "user": "",
+    "password": "",
+    "host": "127.0.0.1",
+    "port": 6379,
+    "db": 13,
+    "url": "redis://127.0.0.1:6379/13",
+    "maxRetriesPerRequest": 1
+  }
+}

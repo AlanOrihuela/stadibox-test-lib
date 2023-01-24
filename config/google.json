@@ -1,0 +1,20 @@
+{
+  "development": {
+    "recaptcha": {
+      "siteKey": "6Ld1N8sZAAAAAB7WHDpgoSRvwoehXavaVSz5SLd8",
+      "secretKey": "6Ld1N8sZAAAAAMQBtCiBszN2HpxuZXPXUG-Qp6Vm"
+    }
+  },
+  "test": {
+    "recaptcha": {
+      "siteKey": "6LfwGO0UAAAAAFsA2opOyafoNO0iDoFarAx6je2-",
+      "secretKey": "6LfwGO0UAAAAAAofP8RAaT8EQ9AsFjXIsDBfbSx2"
+    }
+  },
+  "production": {
+    "recaptcha": {
+      "siteKey": "6LfwGO0UAAAAAFsA2opOyafoNO0iDoFarAx6je2-",
+      "secretKey": "6LfwGO0UAAAAAAofP8RAaT8EQ9AsFjXIsDBfbSx2"
+    }
+  }
+}

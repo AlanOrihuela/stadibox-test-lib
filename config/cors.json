@@ -1,0 +1,10 @@
+{
+  "origin": [
+    "https://cdn.stadibox.com",
+    "https://sandbox.stadibox.com",
+    "https://gql.sandbox.stadibox.com",
+    "https://preview.sandbox.stadibox.com"
+  ],
+  "methods": "GET,HEAD,POST",
+  "credentials": true
+}
